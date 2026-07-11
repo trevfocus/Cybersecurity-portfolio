@@ -1,4 +1,4 @@
-# Trevor CISSE | Cybersecurity Portfolio
+# Salama CISSE | Cybersecurity Portfolio
 
 Welcome to my cybersecurity portfolio!
 
